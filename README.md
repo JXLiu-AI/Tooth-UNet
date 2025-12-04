@@ -4,8 +4,6 @@
 This repo is the official implementation of the project.
 
 
-We propose a Channel Transformer module (CTrans) and use it to 
-replace the skip connections in original U-Net.
 
 ## Requirements
 
