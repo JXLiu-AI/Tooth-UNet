@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/7/8 8:59 上午
-# @File    : UCTransNet.py
-# @Software: PyCharm
+
 import torch.nn as nn
 import torch
 import torch.nn.functional as F
